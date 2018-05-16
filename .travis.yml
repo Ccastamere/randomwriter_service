@@ -4,3 +4,8 @@ jdk:
 sudo: true
 before_install:
   - chmod +x mvnw
+deploy:
+  provider: heroku
+  api_key:
+    secure: cc031b1e-e547-4d9c-b4a7-f24f06217445
+  app: seproj-randomwriter
