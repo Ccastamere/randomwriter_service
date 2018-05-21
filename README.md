@@ -16,5 +16,5 @@
   > 配置托付CI项目的配置文件
 * 在.travis.yml中配置language，jdk等项目信息
 ### 配置Travis的CD环境
-![图片](https://user.qzone.qq.com/592298620/infocenter?_t_=0.19845413384468324)
+![图片](http://m.qpic.cn/psb?/V12LxBG70sO6H3/.H8f8gxwOM1LJ4wIOQQ5d1rBWungzAB*KB8NI.WEmqk!/b/dDABAAAAAAAA&bo=TwJTAQAAAAADBz0!&rf=viewer_4)
 
