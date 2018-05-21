@@ -14,5 +14,7 @@
   > 选择需要托付CI的代码库
 * 配置
   > 配置托付CI项目的配置文件
-  >> 在.travis.yml中配置language，jdk等项目信息
+* 在.travis.yml中配置language，jdk等项目信息
+### 配置Travis的CD环境
+![图片](https://user.qzone.qq.com/592298620/infocenter?_t_=0.19845413384468324)
 
